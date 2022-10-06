@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermoobenitezz&label=Profile%20views&color=00d9ff&style=plastic" alt="guillermoobenitezz" /> </p>
 
 <h3 align="left">🙋‍♂️ About me:</h3>
+
 - 👨‍💻 I'm currently studying and working at [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
 - 🌱 I’m currently learning **Java, Unity, Blender and Android Studio**
