@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/102023611/194344092-5795eeb3-cd12-43fb-bf8e-0b5e96c90391.png)
+![image](https://user-images.githubusercontent.com/102023611/194344290-b6188b5f-806b-424c-be39-26d14b4385f1.png)
 <h3 align="center">Student and apprentice for programmer👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermoobenitezz&label=Profile%20views&color=00d9ff&style=plastic" alt="guillermoobenitezz" /> </p>
