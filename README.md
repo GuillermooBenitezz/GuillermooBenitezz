@@ -13,7 +13,7 @@
 
 - 📍 I am currently living in **Coin (Málaga)**
 
-- 📂 All of my projects are available at [https://github.com/GuillermooBenitezz]([https://github.com/GuillermooBenitezz?tab=repositories])
+- 📂 All of my projects are available at [https://github.com/GuillermooBenitezz?tab=repositories](https://github.com/GuillermooBenitezz?tab=repositories)
 
 - 📫 How to reach me **its.guillejunior@gmail.com**
 
