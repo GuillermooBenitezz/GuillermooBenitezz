@@ -1,4 +1,4 @@
-https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg
+
 <h3 align="center">Student and apprentice for programmer👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermoobenitezz&label=Profile%20views&color=00d9ff&style=plastic" alt="guillermoobenitezz" /> </p>
