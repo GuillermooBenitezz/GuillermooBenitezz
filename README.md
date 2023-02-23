@@ -14,7 +14,7 @@
 
 - 📂 All of my projects are available at [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
 
-- 📫 How to reach me **its.guillejunior@gmail.com**
+- 📫 How to reach me **guillermoobm@gmail.com**
 
 <h3 align="left">🗣️ Connect with me:</h3>
 <p align="left">
