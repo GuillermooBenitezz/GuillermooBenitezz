@@ -10,6 +10,8 @@
 
 - 📍 Actualmente estoy viviendo en **Coin (Málaga)**
 
+- 📋 Hechale un vistazo a mi **[PortFolio - Curriculum](https://github.com/GuillermooBenitezz?tab=repositories)**
+
 - 📂 Todos mis proyectos están disponibles en [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
 
 - 📫 Contactame **guillermoobm@gmail.com**
