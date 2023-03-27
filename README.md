@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/102023611/194344290-b6188b5f-806b-424c-be39-26d14b4385f1.png)
-<h3 align="center">Programmer and Developer of Multiplatform Applications👨‍💻</h3>
+<h3 align="center">Programador y Desarrollador de Aplicaciones Multiplataforma👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/697417405982441572/1027597568638726144/servicios_administrativos.gif">
 
-<h3 align="left">🙋‍♂️ Sobre mi:</h3>
+<h3 align="center">🙋‍♂️ Sobre mi:</h3>
 
 - 👨‍💻 Actualmente estoy estudiando y trabajando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
