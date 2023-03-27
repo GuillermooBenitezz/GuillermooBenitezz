@@ -36,17 +36,33 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
 
-<h3 align="left">🗣️ Contactame:</h3>
-<p align="left">
-<a href="https://instagram.com/http.guillermoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http.guillermoo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/guillermo-ben%C3%ADtez-m%C3%A1rquez-703505267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo benítez márquez" height="30" width="40" />
-<a href="https://guillermoobenitezz.github.io/" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Image-File-180x180.png" alt="guillermo benítez márquez" height="30" width="40" /></a>
-</p>
+<!-- Contact section -->
+<section>
+  <h3>🗣️ Contacto:</h3>
+  <p>
+    <a href="https://instagram.com/http.guillermoo" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/guillermo-ben%C3%ADtez-m%C3%A1rquez-703505267/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://guillermoobenitezz.github.io/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="40" height="40"/>
+    </a>
+  </p>
+</section>
 
-
-<h3 align="left">📊 Estadísticas de racha:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillermoobenitezz&show_icons=true&theme=onedark&title_color=00aaff&text_color=02aebb&hide_border=true&locale=en" alt="guillermoobenitezz" /></p>
-
-<p><img align="left"  width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermoobenitezz&show_icons=true&title_color=00aaff&text_color=02aebb&hide_border=true&locale=en&layout=compact" alt="guillermoobenitezz" /></p>
-
-<p><img align="right" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=guillermoobenitezz&theme=dark" alt="guillermoobenitezz" /></p>
+<!-- Stats section -->
+<section>
+  <h3>📊 Estadísticas:</h3>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermoobenitezz&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00aaff&text_color=02aebb" alt="Estadísticas"/>
+  </div>
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoobenitezz&langs_count=8&layout=compact&hide_border=true&title_color=00aaff&text_color=02aebb" alt="Lenguajes usados"/>
+  </div>
+  <div style="clear:both;"></div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillermoobenitezz&theme=dark&hide_border=true&background=0d1117&stroke=00aaff&ring=02aebb&fire=02aebb" alt="Racha"/>
+  </div>
+</section>
