@@ -4,7 +4,7 @@
   <h3>Programador y Desarrollador de Aplicaciones Multiplataforma, Full-Stack y dedicado ampliamente a Front-End 👨‍💻</h3>
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/697417405982441572/1027597568638726144/servicios_administrativos.gif">
-<h2 align="center">🙋‍♂️ Sobre mi:</h2>
+<h2 align="center">🙋‍♂️ Sobre mi</h2>
 
 - 👨‍💻 Actualmente estoy estudiando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
