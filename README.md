@@ -40,7 +40,7 @@
 
 <!-- Contact section -->
 <section>
-  <h2 align="center">🗣️ Contacto:</h2>
+  <h2 align="center">🗣️ Contactos</h2>
   <p>
     <a href="https://instagram.com/http.guillermoo" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40"/>
@@ -56,7 +56,7 @@
 
 <!-- Stats section -->
 <section>
-  <h3>📊 Estadísticas:</h3>
+  <h2 align="center">📊 Estadísticas:</h2>
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermoobenitezz&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00aaff&text_color=02aebb" alt="Estadísticas"/>
   </div>
