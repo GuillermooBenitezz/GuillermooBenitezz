@@ -4,7 +4,7 @@
 
 <h3 align="left">🙋‍♂️ Sobre mi:</h3>
 
-- 👨‍💻 Actualmente estoy estudiando y trabajando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
+- 👨‍💻 Actualmente estoy estudiando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
 - 🌱 Actualmente estoy aprendiendo **JavaFX y Php**
 
