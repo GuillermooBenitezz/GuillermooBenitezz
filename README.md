@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://instagram.com/http.guillermoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http.guillermoo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/guillermo-ben%C3%ADtez-m%C3%A1rquez-703505267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo benítez márquez" height="30" width="40" />
-<a href="https://guillermoobenitezz.github.io/" target="blank"><img align="center" src="https://pluspng.com/img-png/website-png-done-for-you-website-package-900.png" alt="guillermo benítez márquez" height="30" width="40" /></a>
+<a href="https://guillermoobenitezz.github.io/" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Image-File-180x180.png" alt="guillermo benítez márquez" height="30" width="40" /></a>
 </p>
 
 
