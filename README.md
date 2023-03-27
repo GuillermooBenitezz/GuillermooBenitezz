@@ -56,7 +56,7 @@
 
 <!-- Stats section -->
 <section>
-  <h2 align="center">📊 Estadísticas:</h2>
+  <h2 align="center">📊 Estadísticas</h2>
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermoobenitezz&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00aaff&text_color=02aebb" alt="Estadísticas"/>
   </div>
