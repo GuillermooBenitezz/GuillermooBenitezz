@@ -1,22 +1,24 @@
 ![image](https://user-images.githubusercontent.com/102023611/194344290-b6188b5f-806b-424c-be39-26d14b4385f1.png)
-<h3 align="center">Programador y Desarrollador de Aplicaciones Multiplataforma, Full-Stack y dedicado ampliamente a Front-End👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/697417405982441572/1027597568638726144/servicios_administrativos.gif">
+<div align="center">
+  <h1>Guillermo Benítez</h1>
+  <h3>Programador y Desarrollador de Aplicaciones Multiplataforma, Full-Stack y dedicado ampliamente a Front-End 👨‍💻</h3>
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/697417405982441572/1027597568638726144/servicios_administrativos.gif" alt="Coding" width="400">
+  <br>
+  <br>
+  <a href="https://guillermoobenitezz.github.io/">📋 Hechale un vistazo a mi PortFolio - Curriculum</a>
+  <br>
+  <a href="https://github.com/GuillermooBenitezz?tab=repositories">📂 Todos mis proyectos están disponibles en mi GitHub</a>
+  <br>
+  <br>
+  <p>Actualmente estoy estudiando en <a href="http://www.ieslosmontecillos.es/wp/">I.E.S Los Montecillos</a></p>
+  <p>Actualmente estoy aprendiendo JavaFX y Php 🌱</p>
+  <p>Actualmente estoy viviendo en Coin (Málaga) 📍</p>
+  <p>Trabajando en NemesisHUB 💪</p>
+  <br>
+  <p>Contactame: guillermoobm@gmail.com 📫</p>
+</div>
 
-<h3 align="left">🙋‍♂️ Sobre mi:</h3>
-
-- 👨‍💻 Actualmente estoy estudiando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
-
-- 🌱 Actualmente estoy aprendiendo **JavaFX y Php**
-
-- 📍 Actualmente estoy viviendo en **Coin (Málaga)**
-
-- 💪 Trabajando en **NemesisHUB**
-
-- 📋 Hechale un vistazo a mi **[PortFolio - Curriculum](https://guillermoobenitezz.github.io/)**
-
-- 📂 Todos mis proyectos están disponibles en [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
-
-- 📫 Contactame **guillermoobm@gmail.com**
 
 <h2 align="center">💻Lenguajes y Herramientas</h2>
 <p align="left">
