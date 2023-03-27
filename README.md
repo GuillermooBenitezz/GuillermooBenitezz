@@ -10,7 +10,9 @@
 
 - 📍 Actualmente estoy viviendo en **Coin (Málaga)**
 
-- 📋 Hechale un vistazo a mi **[PortFolio - Curriculum](https://github.com/GuillermooBenitezz?tab=repositories)**
+- 💪 Trabajando en **NemesisHUB**
+
+- 📋 Hechale un vistazo a mi **[PortFolio - Curriculum](https://guillermoobenitezz.github.io/)**
 
 - 📂 Todos mis proyectos están disponibles en [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
 
