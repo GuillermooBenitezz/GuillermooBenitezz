@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/102023611/194344290-b6188b5f-806b-424c-be39-26d14b4385f1.png)
-<h3 align="center">Programador y Desarrollador de Aplicaciones Multiplataforma👨‍💻</h3>
+<h3 align="center">Programador y Desarrollador de Aplicaciones Multiplataforma, Full-Stack y dedicado ampliamente a Front-End👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/697417405982441572/1027597568638726144/servicios_administrativos.gif">
 
 <h3 align="left">🙋‍♂️ Sobre mi:</h3>
