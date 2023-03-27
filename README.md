@@ -19,7 +19,7 @@
 - 📫 Contactame **guillermoobm@gmail.com**
 
 <h2 align="center">💻Lenguajes y Herramientas</h2>
-<p align="center">
+<p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@
 
 <!-- Contact section -->
 <section>
-  <h2>🗣️ Contacto:</h2>
+  <h2 align="center">🗣️ Contacto:</h2>
   <p>
     <a href="https://instagram.com/http.guillermoo" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" width="40" height="40"/>
