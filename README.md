@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillermoobenitezz&label=Profile%20views&color=00d9ff&style=plastic" alt="guillermoobenitezz" /> </p>
 
-<h3 align="left">🙋‍♂️ About me:</h3>
+<h3 align="left">🙋‍♂️ Sobre mi:</h3>
 
-- 👨‍💻 I'm currently studying and working at [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
+- 👨‍💻 Actualmente estoy estudiando y trabajando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
-- 🌱 I’m currently learning **Unity and Android Studio**
+- 🌱 Actualmente estoy aprendiendo **JavaFX, Python y Php, **
 
-- 📍 I am currently living in **Coin (Málaga)**
+- 📍 Actualmente estoy viviendo en **Coin (Málaga)**
 
-- 📂 All of my projects are available at [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
+- 📂 Todos mis proyectos están disponibles en [My GitHub](https://github.com/GuillermooBenitezz?tab=repositories)
 
-- 📫 How to reach me **guillermoobm@gmail.com**
+- 📫 Contactame **guillermoobm@gmail.com**
 
 <h3 align="left">🗣️ Connect with me:</h3>
 <p align="left">
