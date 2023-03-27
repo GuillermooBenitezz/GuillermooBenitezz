@@ -42,6 +42,8 @@
 <a href="https://www.linkedin.com/in/guillermo-ben%C3%ADtez-m%C3%A1rquez-703505267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo benítez márquez" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="left">📊 Estadísticas de racha:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillermoobenitezz&show_icons=true&theme=onedark&title_color=00aaff&text_color=02aebb&hide_border=true&locale=en" alt="guillermoobenitezz" /></p>
 
 <p><img align="left"  width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermoobenitezz&show_icons=true&title_color=00aaff&text_color=02aebb&hide_border=true&locale=en&layout=compact" alt="guillermoobenitezz" /></p>
