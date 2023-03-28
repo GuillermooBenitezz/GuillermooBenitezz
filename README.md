@@ -8,7 +8,7 @@
 
 - 👨‍💻 Actualmente estoy estudiando en [I.E.S Los Montecillos](http://www.ieslosmontecillos.es/wp/)
 
-- 🌱 Actualmente estoy aprendiendo **JavaFX y Php**
+- 🌱 Actualmente estoy aprendiendo **Python y Php**
 
 - 📍 Actualmente estoy viviendo en **Coin (Málaga)**
 
